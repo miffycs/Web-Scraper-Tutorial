@@ -25,8 +25,6 @@ $ pipenv shell      # spawns a shell within the virtualenv
 $ exit              # exit shell
 ```
 
-In an empty directory, running `$ pipenv install` will create a `Pipfile` and `Pipfile.lock`. These are intended to replace `$ pip install` usage, as well as manual virtualenv management `$ pipenv shell`.
-
 All you really need from this directory is `demo.py` if you've got everything set up in your python environment.
 
 ## Run
